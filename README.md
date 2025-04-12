@@ -7,21 +7,21 @@ Features include:
 
 - Music Playback: Supports MP3, WAV, MP4, MIDI, and MID formats.
 
-- Custom Playlists: Create, edit, and delete playlists with ease.
+- Custom Playlists: Create, edit, and delete playlists.
 
-- Queue System: Play songs in order or shuffle on the fly.
+- Queue System: Play songs in order or shuffle them.
 
-- Loop & Shuffle Modes: Customize playback to your style.
+- Loop & Shuffle Modes: Customize playback.
 
-- Color Schemes: Light, dark, pink, purple, blue, and green modes.
+- Color Schemes: Light, dark, pink, purple, blue, and green.
  
-- Persistent Config: Saves all your settings and queues.
+- Persistent Config: Saves all your settings.
 
 - Automatic Resource Setup: Downloads missing assets on launch.
 
-- Volume Slider + Seek Bar: Control your music like a pro.
+- Volume Slider + Seek Bar: Control your music.
 
-- Settings Menu: Fully customizable from within the app.
+- Settings Menu: customizable from within the app.
 
 - Uninstaller Included
 ------------------------------------------------------------------
