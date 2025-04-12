@@ -32,8 +32,8 @@ This repo includes the core source for documentation, not for direct compilation
 
 To use the compiled version:
 
-1. Download the installer from:                        
-https://drive.google.com/uc?export=download&id=1oh43zS4my4fkIqPw3lcbuPieFBn6rv-q
+1. Download the installer from: https://drive.google.com/uc?export=download&id=1oh43zS4my4fkIqPw3lcbuPieFBn6rv-q        
+or the release notes
 3. Unzip the Zipfile
 4. Run "midify installer.exe"
 5. Pick preferred settings and version
@@ -84,5 +84,5 @@ This is the biggest, most complex program I have written and by far my greatest 
 which is the reason why I decided to make this repository. I have been actively coding for around 1.5 years
 now and am only 16 years old. This program is unironically the single most impressive thing I have made.
 And even though the plan was not to use any libraries in the making of this, I am still proud on the final 
-product, as it actually kinda serves a use. 
+product, as it actually kinda serves a use.            
 Thanks for downloading!
