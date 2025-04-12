@@ -3,7 +3,7 @@ My Mp3-Player
 
 A customizable music player written in C#. Built with Windows Forms and packed with features, themes, my favourite characters (Astolfo & Miku!), playlist management, and queue-based playback.
 
-# Features include:
+# Features include
 
 - Music Playback: Supports MP3, WAV, MP4, MIDI, and MID formats.
 
