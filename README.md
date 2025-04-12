@@ -2,7 +2,7 @@
 My Mp3-Player
 
 A customizable music player written in C#. Built with Windows Forms and packed with features, themes, my favourite characters (Astolfo & Miku!), playlist management, and queue-based playback.
-------------------------------------------------------------------
+
 # Features include:
 
 - Music Playback: Supports MP3, WAV, MP4, MIDI, and MID formats.
@@ -24,7 +24,7 @@ A customizable music player written in C#. Built with Windows Forms and packed w
 - Settings Menu: customizable from within the app.
 
 - Uninstaller Included
-------------------------------------------------------------------
+
 # Installation
 
 Midify is composed of multiple scripts and executables. 
@@ -40,7 +40,7 @@ https://drive.google.com/uc?export=download&id=1oh43zS4my4fkIqPw3lcbuPieFBn6rv-q
 6. Selected Midify version will be installed
 
 **Note: Running Midify for the first time will create a cfg directory to store settings and download some additional resources.**
-------------------------------------------------------------------
+
 # Technologies
 
 Language: C#
@@ -54,7 +54,7 @@ Audio: MediaPlayer, NAudio
 Resources: Custom images & sounds
 
 Config: Plain text files
-------------------------------------------------------------------
+
 # Known issues
 
 Known issues include:
@@ -63,11 +63,11 @@ Known issues include:
 3. Not compatible with Linux/Wine (Windows-only)
 4. Midify Legacy might break if songs are removed outside the app
 5. Might need reinstallation if one tampers with any save files
-------------------------------------------------------------------
+
 # License
 
 This project is not currently open-source. Code provided is for documentation purposes only.
-------------------------------------------------------------------
+
 # Credits
 
 Libraries: Uses NAudio for getting song durations and converting files
@@ -75,7 +75,7 @@ Libraries: Uses NAudio for getting song durations and converting files
 Anime assets: Astolfo & Miku belong to their respective creators.
 
 Code: Written by me
-------------------------------------------------------------------
+
 # Why I Made This
 
 Midify started as a small project I wanted to use to learn how Dictionaries work in C#,
