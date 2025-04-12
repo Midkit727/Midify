@@ -81,7 +81,7 @@ Code: Written by me
 Midify started as a small project I wanted to use to learn how Dictionaries work in C#,
 but over the almost 3 months and many hours I put into it, it grew to the size that it is now.
 This is the biggest, most complex program I have written and by far my greatest achievement as a programmer,
-which is the reason why I decided to make this repository. I have been actively coding for not even 1.5 years
+which is the reason why I decided to make this repository. I have been actively coding for around 1.5 years
 now and am only 16 years old. This program is unironically the single most impressive thing I have made.
 And even though the plan was not to use any libraries in the making of this, I am still proud on the final 
 product, as it actually kinda serves a use. 
