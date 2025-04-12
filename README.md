@@ -3,7 +3,7 @@ My Mp3-Player
 
 A customizable music player written in C#. Built with Windows Forms and packed with features, themes, my favourite characters (Astolfo & Miku!), playlist management, and queue-based playback.
 ------------------------------------------------------------------
-#Features include:
+# Features include:
 
 - Music Playback: Supports MP3, WAV, MP4, MIDI, and MID formats.
 
@@ -25,7 +25,7 @@ A customizable music player written in C#. Built with Windows Forms and packed w
 
 - Uninstaller Included
 ------------------------------------------------------------------
-#Installation
+# Installation
 
 Midify is composed of multiple scripts and executables. 
 This repo includes the core source for documentation, not for direct compilation.
@@ -39,9 +39,9 @@ https://drive.google.com/uc?export=download&id=1oh43zS4my4fkIqPw3lcbuPieFBn6rv-q
 5. Pick preferred settings and version
 6. Selected Midify version will be installed
 
-Note: Running Midify for the first time will create a cfg directory to store settings and download some additional resources.
+**Note: Running Midify for the first time will create a cfg directory to store settings and download some additional resources.**
 ------------------------------------------------------------------
-#Technologies
+# Technologies
 
 Language: C#
 
@@ -55,7 +55,7 @@ Resources: Custom images & sounds
 
 Config: Plain text files
 ------------------------------------------------------------------
-#Known issues
+# Known issues
 
 Known issues include:
 1. My code being bad
@@ -64,11 +64,11 @@ Known issues include:
 4. Midify Legacy might break if songs are removed outside the app
 5. Might need reinstallation if one tampers with any save files
 ------------------------------------------------------------------
-#License
+# License
 
 This project is not currently open-source. Code provided is for documentation purposes only.
 ------------------------------------------------------------------
-#Credits
+# Credits
 
 Libraries: Uses NAudio for getting song durations and converting files
 
@@ -76,7 +76,7 @@ Anime assets: Astolfo & Miku belong to their respective creators.
 
 Code: Written by me
 ------------------------------------------------------------------
-#Why I Made This
+# Why I Made This
 
 Midify started as a small project I wanted to use to learn how Dictionaries work in C#,
 but over the almost 3 months and many hours I put into it, it grew to the size that it is now.
