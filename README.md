@@ -11,7 +11,7 @@ A customizable music player written in C#. Built with Windows Forms and packed w
 
 - Queue System: Play songs in order or shuffle them.
 
-- Loop & Shuffle Modes: Customize playback.
+- Loop & Shuffle Modes: Shuffle through playlists, the queue or loop songs.
 
 - Color Schemes: Light, dark, pink, purple, blue, and green.
  
@@ -19,9 +19,9 @@ A customizable music player written in C#. Built with Windows Forms and packed w
 
 - Automatic Resource Setup: Downloads missing assets on launch.
 
-- Volume Slider + Seek Bar: Control your music.
+- Volume Slider + Seek Bar: Control Volume and search for songs.
 
-- Settings Menu: customizable from within the app.
+- Settings Menu: Customizable from within the app.
 
 - Uninstaller Included
 
@@ -34,7 +34,7 @@ To use the compiled version:
 
 1. Download the installer from: https://drive.google.com/uc?export=download&id=1oh43zS4my4fkIqPw3lcbuPieFBn6rv-q        
 or the release notes
-3. Unzip the Zipfile
+3. Unzip the zipfile
 4. Run "midify installer.exe"
 5. Pick preferred settings and version
 6. Selected Midify version will be installed
@@ -45,11 +45,11 @@ or the release notes
 
 Language: C#
 
-UI: Windows Forms
-
 Framework: .Net 4.8.1
 
-Audio: MediaPlayer, NAudio
+UI: Windows Forms
+
+Audio: Windows MediaPlayer, NAudio
 
 Resources: Custom images & sounds
 
