@@ -63,6 +63,7 @@ Known issues include:
 3. Not compatible with Linux/Wine (Windows-only)
 4. Midify Legacy might break if songs are removed outside the app
 5. Might need reinstallation if one tampers with any save files
+6. Previous song button does weird stuff in specific situations
 
 # License
 
