@@ -19,7 +19,7 @@ A customizable music player written in C#. Built with Windows Forms and packed w
 
 - Automatic Resource Setup: Downloads missing assets on launch.
 
-- Volume Slider + Seek Bar: Control Volume and search for songs.
+- Volume Slider + Search Bar: Control Volume and search for songs.
 
 - Settings Menu: Customizable from within the app.
 
